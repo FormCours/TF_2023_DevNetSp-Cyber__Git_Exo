@@ -4,3 +4,8 @@
 - Nom: Della Duck
 - Date de naissance: 23/02/1991
 - Email: della.duck@tftic.be
+
+## Hobbies
+ - Pêche
+ - Nasa
+ - Jeux de société
